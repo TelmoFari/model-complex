@@ -36,24 +36,26 @@ Python 3.9 or later
 Required Python packages (numpy, tensorflow, scikit-learn, keras-tuner)
 Setup
 Clone the Repository
-
+```
 git clone https://github.com/TelmoFari/model-complex
+```
+```
 cd model-complex 
-
+```
 Install Dependencies
 
 You can use replit.nix to manage dependencies in Replit. If you prefer a local setup, use pip:
-
+```
 pip install -r requirements.txt
-
+```
 The model uses synthetic data generated within the script. You can modify the generate_data function to use real datasets.
 
 Train the Model
 
 Run the model-complex-ia.py script to start the training process:
-
+```
 python model-complex-ia.py
-
+```
 Model Evaluation and Saving
 
 The model is automatically evaluated and saved as model-complex-ia.h5 after training.
