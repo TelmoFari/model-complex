@@ -38,7 +38,8 @@ Setup
 Clone the Repository
 
 git clone https://github.com/TelmoFari/model-complex
-cd model-complex
+cd model-complex 
+
 Install Dependencies
 
 You can use replit.nix to manage dependencies in Replit. If you prefer a local setup, use pip:
@@ -52,6 +53,7 @@ Train the Model
 Run the model-complex-ia.py script to start the training process:
 
 python model-complex-ia.py
+
 Model Evaluation and Saving
 
 The model is automatically evaluated and saved as model-complex-ia.h5 after training.
