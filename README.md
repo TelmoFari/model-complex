@@ -49,7 +49,7 @@ The model uses synthetic data generated within the script. You can modify the ge
 
 Train the Model
 
-Run the main.py script to start the training process:
+Run the model-complex-ia.py script to start the training process:
 
 python model-complex-ia.py
 Model Evaluation and Saving
