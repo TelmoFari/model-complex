@@ -1,0 +1,4 @@
+numpy==1.26.4
+tensorflow==2.17.0
+scikit-learn==1.5.1
+keras-tuner==1.4.7
