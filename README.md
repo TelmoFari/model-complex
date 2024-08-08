@@ -65,6 +65,7 @@ Hyperparameters: Adjust the hyperparameters directly in the create_model functio
 Training Intervals: The model training loop runs every minute. Modify the time.sleep(60) interval in model-complex-ia.py if needed.
 
 License
+
 This project is licensed under the MIT License.
 
 Acknowledgements
