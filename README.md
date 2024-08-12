@@ -1,9 +1,8 @@
-Complex Machine Learning Model
-Overview:
+Complex Machine Learning Model Overview:
+
 This project features a complex machine learning model designed for binary classification tasks. The model leverages a combination of convolutional, recurrent, and dense layers to achieve high accuracy and generalization.
 
-Model Architecture
-Convolutional Layers
+Model Architecture Convolutional Layers:
 
 Purpose: Extract spatial features from sequential data.
 Configuration:
@@ -64,11 +63,12 @@ Configuration Hyperparameters:
 Adjust the hyperparameters directly in the create_model function.
 Training Intervals: The model training loop runs every minute. Modify the time.sleep(60) interval in model-complex-ia.py if needed.
 
-License
+License:
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+Acknowledgements:
+
 TensorFlow and Keras for providing the deep learning framework.
 Scikit-learn for essential machine learning tools.
 Feel free to modify this template according to the specifics of your project, such as the repository URL, license, and any additional details about how to use or contribute to the project.
