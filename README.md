@@ -1,5 +1,5 @@
 Complex Machine Learning Model
-Overview
+Overview:
 This project features a complex machine learning model designed for binary classification tasks. The model leverages a combination of convolutional, recurrent, and dense layers to achieve high accuracy and generalization.
 
 Model Architecture
@@ -41,7 +41,7 @@ Clone the Repository
 
 `cd model-complex`
 
-Install Dependencies
+Install Dependencies:
 
 You can use replit.nix to manage dependencies in Replit. If you prefer a local setup, use pip:
 
@@ -55,12 +55,13 @@ Run the model-complex-ia.py script to start the training process:
 
 `python model-complex-ia.py`
 
-Model Evaluation and Saving
+Model Evaluation and Saving:
 
 The model is automatically evaluated and saved as model-complex-ia.h5 after training.
 
-Configuration
-Hyperparameters: Adjust the hyperparameters directly in the create_model function.
+Configuration Hyperparameters: 
+
+Adjust the hyperparameters directly in the create_model function.
 Training Intervals: The model training loop runs every minute. Modify the time.sleep(60) interval in model-complex-ia.py if needed.
 
 License
