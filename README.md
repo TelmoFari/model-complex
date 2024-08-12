@@ -37,14 +37,15 @@ Requirements:
 
 How to install:
 
-Go to the [Reblit](https://replit.com) page click on the import from github option go to the url and put
-`https://github.com/TelmoFari/model-complex`
+1. Import the Project:
+* Go to the [Reblit](https://replit.com)  page, click on the "Import from GitHub" option and enter the URL:  `https://github.com/TelmoFari/model-complex`
 
-Install the dependencies
+2. Install the dependencies
+* Run the following command to install the dependencies:
 
 `pip install -r requirements.txt`
 
-Probably reblit will ask for a run command, the run command is this. 
+Replit will probably prompt you for a run command. Use the command below:
 
 `python model-complex-ia.py`
 
@@ -52,7 +53,7 @@ Then a run button will appear and click and the model will be trained.
 
 Model Evaluation and Saving:
 
-During training the model is evaluated and saved in a model-complex-ia folder.
+During training, the model is evaluated and automatically saved in the model-complex-ia folder.
 
 Configuration Hyperparameters: 
 
