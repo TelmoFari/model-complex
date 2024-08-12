@@ -78,7 +78,7 @@ Feel free to modify this template according to the specifics of your project, su
 
 Additional notes:
 
-This project was made for the [Reblit]()
+This project was made for the [Reblit](https://replit.com)
 
 
 
