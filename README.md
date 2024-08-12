@@ -57,7 +57,7 @@ Run a model-complex-ia.py script
 
 Model Evaluation and Saving:
 
-The model is automatically evaluated and saved as model-complex-ia.h5 after training.
+During training the model is evaluated and saved in a model-complex-ia folder.
 
 Configuration Hyperparameters: 
 
