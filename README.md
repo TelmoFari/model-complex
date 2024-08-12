@@ -38,18 +38,19 @@ Requirements:
 How to install:
 
 1. Import the Project:
-* Go to the [Reblit](https://replit.com)  page, click on the "Import from GitHub" option and enter the URL:  `https://github.com/TelmoFari/model-complex`
+    * Go to the [Reblit](https://replit.com)  page, click on the "Import from GitHub" option and enter the URL:  `https://github.com/TelmoFari/model-complex`
 
 2. Install the dependencies
-* Run the following command to install the dependencies:
+    * Run the following command to install the dependencies:
 
-`pip install -r requirements.txt`
+      `pip install -r requirements.txt`
 
-Replit will probably prompt you for a run command. Use the command below:
+2. Run the Model:
+    * Replit will probably prompt you for a run command. Use the command below:
 
-`python model-complex-ia.py`
+      `python model-complex-ia.py`
 
-Then a run button will appear and click and the model will be trained. 
+    * Then a run button will appear. Click on it to start training the model. 
 
 Model Evaluation and Saving:
 
@@ -69,7 +70,7 @@ Acknowledgments:
 * TensorFlow and Keras: For providing the deep learning framework that made the development of this model possible.
 * Scikit-learn: For its indispensable machine learning tools.
 
-Feel free to adapt this project to your needs. Making necessary changes to files
+Feel free to adapt this project to your needs. Making necessary changes to files.
 
 
 
