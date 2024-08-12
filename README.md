@@ -61,7 +61,7 @@ The model is automatically evaluated and saved as model-complex-ia.h5 after trai
 
 Configuration Hyperparameters: 
 
-Adjust the hyperparameters directly in the create_model function.
+* Adjust the hyperparameters: directly in the create_model function.
 * Training Intervals: The model training loop runs every minute. Modify the time.sleep(60) interval in model-complex-ia.py if needed.
 
 License:
@@ -73,7 +73,7 @@ Acknowledgments:
 * TensorFlow and Keras: For providing the deep learning framework that made the development of this model possible.
 * Scikit-learn: For its indispensable machine learning tools.
 
-Feel free to adapt this project to your needs. Making changes to the files 
+Feel free to adapt this project to your needs. Making necessary changes to files
 
 Additional notes:
 
