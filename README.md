@@ -35,25 +35,20 @@ Requirements:
 * scikit-learn
 * keras-tuner
 
-Setup and clone the Repository
+How to install:
 
-`git clone https://github.com/TelmoFari/model-complex`
+Go to the [Reblit](https://replit.com) page click on the import from github option go to the url and put
+`https://github.com/TelmoFari/model-complex`
 
-Go to Repository: 
-
-`cd model-complex`
-
-Install Dependencies:
+Install the dependencies
 
 `pip install -r requirements.txt`
 
-The model uses synthetic data generated within the script. You can modify the generate_data function to use real datasets.
-
-Train the Model
-
-Run a model-complex-ia.py script
+Probably reblit will ask for a run command, the run command is this. 
 
 `python model-complex-ia.py`
+
+Then a run button will appear and click and the model will be trained. 
 
 Model Evaluation and Saving:
 
@@ -75,9 +70,6 @@ Acknowledgments:
 
 Feel free to adapt this project to your needs. Making necessary changes to files
 
-Additional notes:
-
-This project was made for the [Reblit](https://replit.com)
 
 
 
