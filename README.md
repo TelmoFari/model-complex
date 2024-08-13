@@ -41,16 +41,16 @@ How to install:
     * Go to the [Reblit](https://replit.com)  page, click on the "Import from GitHub" option and enter the URL:  `https://github.com/TelmoFari/model-complex`
 
 2. Install the dependencies
+
     * Run the following command to install the dependencies:
 
       `pip install -r requirements.txt`
 
-2. Run the Model:
+3. Run the Model:
     * Replit will probably prompt you for a run command. Use the command below:
 
       `python model-complex-ia.py`
 
-    * Then a run button will appear. Click on it to start training the model. 
 
 Model Evaluation and Saving:
 
